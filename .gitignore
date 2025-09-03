@@ -219,11 +219,6 @@ __pycache__/
 # Variables d'environnement
 .env
 
-# Données sensibles (CSV avec données médicales)
-data/*.csv
-data/*.json
-data/*.xlsx
-
 # Logs
 *.log
 logs/
